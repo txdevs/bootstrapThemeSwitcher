@@ -128,19 +128,19 @@ The path the cookie should be stored
 
 ### defaultCssFile
 
-    defaultCssFile: '//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'
+    defaultCssFile: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css'
 
 The default css file the plugin should use if it can not load the themes from Bootswatch
 
 ### bootswatchApiUrl
 
-    bootswatchApiUrl: 'http://api.bootswatch.com'
+    bootswatchApiUrl: 'https://bootswatch.com/api'
 
 The url for the bootswatch api
 
 ### bootswatchApiVersion
 
-    bootswatchApiVersion: '3'
+    bootswatchApiVersion: '4'
 
 The version of the bootswatch api to use.
 
